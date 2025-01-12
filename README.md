@@ -8,6 +8,16 @@ This project provides a comprehensive tool to extract text and organize informat
 2. **Key-Value Extraction**: Retrieve key-value pairs, suitable for invoices, forms, or similar data.
 3. **LLM-Powered Extraction**: Leverage a large language model (LLM) to extract and organize information using custom prompts, designed for a flexible and contextual understanding of data.
 
+## **Video samples of the App**
+- **Table extraction**:
+[table.webm](https://github.com/user-attachments/assets/41c00b07-8ff7-44c3-b59d-5e224d0861ab)
+- **Key-value extraction**:
+  [key_value.webm](https://github.com/user-attachments/assets/e45fb248-8ad4-410f-897e-d9a187234bbb)
+
+- **LLM-enabled extraction**:
+  
+[llm.webm](https://github.com/user-attachments/assets/307419c6-db98-40fe-beb9-c8a0ef254eb1)
+
 ## **Features**
 - **Image to PDF Conversion**: Automatically converts uploaded images into PDFs for seamless processing.
 - **Text Extraction**: Extract text from images or PDFs using powerful tools like AWS Textract and PDFParser.
