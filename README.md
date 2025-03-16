@@ -77,5 +77,5 @@ Contributions are welcome! To contribute:
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## **Contact**
-For questions or support, contact **[Your Name/Your Organization]** at **[musshaile@gmail.com]**.
+For questions or support, contact **Mussie/Kifiya Financial Technologies** at **[musshaile@gmail.com]**.
 
